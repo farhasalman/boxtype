@@ -1,0 +1,35 @@
+body{
+    background-color:#f1968f
+        
+}
+.box{
+    border:30px ;
+    background-color: beige;
+    width: 350px;
+    height: 200px;
+    border-radius: 40px;
+    /* padding: 30px; */
+    padding-top: 50px;
+    margin: 65px;
+    border-top-left-radius: 8px;
+    box-shadow: 5px 5px 10px rgb(91, 86, 86);
+    padding-top: 8px;
+}
+.box1{
+    border-top: 6px solid red;
+}
+.box2{
+    border-top: 6px solid rgb(5, 5, 70);
+}
+.box3{
+    border-top: 6px solid rgb(230, 103, 13);
+}
+.box4{
+    border-top: 6px solid rgb(20, 241, 211);
+}
+.box5{
+    border-top: 6px solid rgb(241, 245, 11);
+}
+.box6{
+    border-top: 6px solid rgb(15, 49, 116);
+}
